@@ -23,7 +23,7 @@ datasets:
 - Eugenememe/mix-en-vi-500k
 ---
 
-# Model Card for ViT5 Translation Model
+# ViT5 Translation Model
 
 A sequence-to-sequence translation model based on **VietAI ViT5-base**, fine-tuned for **Vietnamese to English machine translation**.  
 This model is intended for general-purpose translation tasks, both academic and production-oriented.
